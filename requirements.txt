@@ -1,0 +1,9 @@
+#To run requirement.txt you just have to type "pip install -r requirement.txt" in CLI
+
+Flask                             2.2.2
+Flask-SQLAlchemy                  3.0.3
+Flask-WTF                         1.1.1
+Pillow                            9.4.0
+WTForms                           3.0.1
+torch
+transformers
