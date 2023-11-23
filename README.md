@@ -1,6 +1,6 @@
 # IMAGE CAPTIONING
 
-IN THIS ASSIGNMENT IF YOU WANT TO SEE THE BACKEND WORK THEN YOU CAN GO THROUGH "Image_captions_generator.ipynb"
+Here, IF YOU WANT TO SEE THE BACKEND WORK THEN YOU CAN GO THROUGH "Image_captions_generator.ipynb"
 
 IF YOU WANT TO SE THE ENTIRE PROJECT THEN YOU CAN GO THROUGH THE FOLDER "Image captioning" and run app.py then you will got link on output "http://127.0.0.1:5000/" click on the link you will got the interface where you have to upload the image then click on generate captions.
 
